@@ -1,12 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Aditech IT & Consultancy Services Pvt Ltd
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: "Aditech is a recruitment and HR consultancy provider. With more than 16 years of experience, we hire across all domains: SAP, Manufacturing, full-stack/front-end/back-end/blockchain developers."
+intro_image: "images/illustrations/recruiting.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Your one stop recruitment solution
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+\\
+We help businesses of all sizes, across all domains with end-to-end recruitment processes.
