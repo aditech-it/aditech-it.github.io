@@ -1,52 +1,20 @@
 ---
-title: 'About'
+# title: 'About'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## What we do
 
-## Ne verba patulosque numen vix libet
+Employees are the most valuable assets of any company. We understand and live by it. We help companies hire the right talent in this ever-evolving job market. Be it Manufacturing to Technology, large corporations to early stage startups, bulk hiring to executive recruitment  - we have got you covered. 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Knowing the pains of filtering a massive pool of candidates, we help our clients with screening so that they can focus and spend their resources only on those handful ones. 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## How we do
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+We are a team of experts with experience in recruitment for about two decades now. Using our domain knowledge, we have developed an in-house software to track and automate complex workflows.We have curated a huge database of candidates wit This helps us save thousands of employee hours, eliminate human errors and be responsive to the clients and the candidates.
 
-## Postquam tamen
+It's not just about business - we strongly believe that a contract more than a legal binding. We focus on building and nurturing a strong relation with our clients and candidates. This helps us better understand and serve to our clients' needs. 
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+The job market has never been so dynamic. To keep up with the changing demands, we ramp-up our team through peer seminars and expert talks. 

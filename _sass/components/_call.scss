@@ -30,9 +30,16 @@
       border: none;
     }
   }
-  .call-name {
-    font-size: 1.1rem;
-    font-weight: bold;
+  .call-address {
+    // font-size: 1.1rem;
+    // font-weight: bold;
+    font-size: 1rem;
+    margin-top: 5px;
+    p {
+      width: 60%; 
+      word-wrap: break-word;
+      overflow: hidden;
+    }
   }
   .call-phone {
     margin-bottom: 5px;
