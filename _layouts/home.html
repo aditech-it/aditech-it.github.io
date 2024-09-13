@@ -1,5 +1,6 @@
 ---
-title: Jekyll Serif - Jekyll Small Business Theme
+<!-- title: Jekyll Serif - Jekyll Small Business Theme -->
+title: Aditech IT & Consultancy Services
 layout: default
 bodyClass: page-home
 ---
@@ -46,7 +47,7 @@ bodyClass: page-home
   </div>
 </div> -->
 
-{% if site.data.features %}
+<!-- {% if site.data.features %}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
@@ -64,6 +65,24 @@ bodyClass: page-home
       {% endfor %}
 
     </div>
+  </div>
+</div>
+{% endif %} -->
+
+
+{% if site.data.features %}
+<div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+  <a id="services"></a>
+  <div class="card-deck">
+    {% for service in site.data.services %}
+        {%  include card.html
+            image=service.image
+            title=service.title
+            description=service.description
+            btntext="Read More"
+            url=service.url
+        %}
+    {% endfor %}
   </div>
 </div>
 {% endif %}
