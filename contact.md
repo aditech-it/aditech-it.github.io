@@ -1,5 +1,7 @@
 ---
 title: Contact
+loc1: United States
+loc2: India
 layout: contact
 bodyClass: page-contact
 ---

@@ -9,6 +9,7 @@ $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #fff6f8;
 $steel: #5C5A5A;
+$white-offset1: #8c7f8842;
 
 // Links
 //$link-color: $primary;
@@ -17,19 +18,21 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: 'Playfair Display', serif, -apple-system;
+$font-family-base: sans-serif, Arial, sans-serif, -apple-system;
+$font-family-heading: sans-serif, serif, -apple-system;
 
 // Footer
-$footer-background-color: $primary;
-$footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
-$sub-footer-text-color: $white;
+$footer-background-color: $white-offset1;
+$footer-text-color: $black;
+$sub-footer-background-color: darken($white-offset, 10%);
+$sub-footer-text-color: $black;
 
 // Bootstrap
 @import 'bootstrap-variables';
 @import 'bootstrap/bootstrap-reboot';
 @import 'bootstrap/bootstrap-grid';
+@import 'bootstrap/card';
+@import 'bootstrap/buttons';
 // @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
 
 
@@ -46,7 +49,6 @@ $sub-footer-text-color: $white;
 @import 'components/main-menu';
 @import 'components/main-menu-mobile';
 @import 'components/hamburger';
-@import 'components/buttons';
 @import 'components/call';
 @import 'components/title';
 @import 'components/content';

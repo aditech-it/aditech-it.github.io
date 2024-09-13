@@ -1,0 +1,12 @@
+<div class="card">
+    {% if include.image %}
+        <div class="card-img-top">
+            <img src="{{ include.image | relative_url }}" alt="{{ include.title }} include">
+        </div>
+    {% endif %}
+    <div class="card-body">
+        <h2 class="card-title">{{include.title}}</h2>
+        <p class="card-subtitle">{{ include.description }}</p>
+        <a href="{{include.url}}" class="btn btn-primary btn-sm">{{include.btntext}}</a>
+    </div>
+</div>

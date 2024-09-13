@@ -367,3 +367,93 @@ models:
         options:
           - label: teams
             value: teams
+  recruitment-staffing:
+    type: page
+    label: recruitment-staffing
+    file: recruitment-staffing.md
+    hideContent: false
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        required: true
+      - type: string
+        name: description
+      - type: image
+        name: intro_image
+        label: Intro Image
+        description: Image displayed at in the pages intro section
+      - type: boolean
+        name: intro_image_absolute
+        label: Overflow intro image
+        description: Should the image overflow or be contained
+      - type: boolean
+        name: intro_image_hide_on_mobile
+        label: Hide the intro image on mobile
+        description: Hide the intro image on mobile screen sizes
+      - type: enum
+        name: layout
+        options:
+          - label: home
+            value: home
+  erpnext:
+    type: page
+    label: erpnext
+    file: erpnext.md
+    hideContent: false
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        required: true
+      - type: string
+        name: description
+      - type: image
+        name: intro_image
+        label: Intro Image
+        description: Image displayed at in the pages intro section
+      - type: boolean
+        name: intro_image_absolute
+        label: Overflow intro image
+        description: Should the image overflow or be contained
+      - type: boolean
+        name: intro_image_hide_on_mobile
+        label: Hide the intro image on mobile
+        description: Hide the intro image on mobile screen sizes
+      - type: enum
+        name: layout
+        options:
+          - label: home
+            value: home
+    cloud-infrastructure-devops:
+    type: page
+    label: cloud-infrastructure-devops
+    file: cloud-infrastructure-devops.md
+    hideContent: false
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        required: true
+      - type: string
+        name: description
+      - type: image
+        name: intro_image
+        label: Intro Image
+        description: Image displayed at in the pages intro section
+      - type: boolean
+        name: intro_image_absolute
+        label: Overflow intro image
+        description: Should the image overflow or be contained
+      - type: boolean
+        name: intro_image_hide_on_mobile
+        label: Hide the intro image on mobile
+        description: Hide the intro image on mobile screen sizes
+      - type: enum
+        name: layout
+        options:
+          - label: home
+            value: home

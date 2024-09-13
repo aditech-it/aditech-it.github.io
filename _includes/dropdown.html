@@ -1,0 +1,38 @@
+<!-- <div class="dropdown">
+
+    {% for item in include.items %}
+        <li class="dropdown-item"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    {% endfor %}
+
+</div> -->
+
+<!-- <div class="dropdown">
+    <span class="dropdown-toggle">Services</span>
+    <div class="dropdown-menu">
+        {% for item in include.items %}
+            <a class="dropdown-item" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+        {% endfor %}
+    </div>
+</div> -->
+
+      <!-- {% if item.name == "Services" %}
+        <li class="{% if item.url == page.url %}active{% endif %}">
+          {% include dropdown.html 
+            title=item.name
+            items=site.data.services
+          %}
+        </li>
+      {% else %}
+        <li class="{% if item.url == page.url %}active{% endif %}">
+          <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+        </li>
+      {% endif %} -->
+
+<button class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+    Dropdown
+  </button>
+  <ul class="dropdown-menu dropdown-menu-dark">
+    <li><a class="dropdown-item" href="#">Action</a></li>
+    <li><a class="dropdown-item" href="#">Another action</a></li>
+    <li><a class="dropdown-item" href="#">Something else here</a></li>
+  </ul>
