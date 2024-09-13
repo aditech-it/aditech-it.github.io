@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Recruitment & Staffing",
+        "description": "Highly flexible and customizable services.",
+        "image": "images/services/recruitment_service.png",
+        "url": "/recruitment-staffing"
+    },
+    {
+        "title": "ERPNext",
+        "description": "In-house software to automate complex recruitment workflows.",
+        "image": "images/services/erpnext_logo.svg",
+        "url": "/erpnext"
+    },
+    {
+        "title": "Cloud Infrastructure & DevOps",
+        "description": "Team of experts abreast with the requirements of the job market.",
+        "image": "images/services/aws_logo.svg",
+        "url": "/cloud-infrastructure-devops"
+    }
+]
