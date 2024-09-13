@@ -5,16 +5,27 @@ layout: page
 bodyClass: page-about
 ---
 
-## What we do
+## About Us
+Aditech is a global service provider in Digital Transformation, IT Infrastructure Services -Cloud and DevOps, Open Source ERPNext implementation, Recruitment and IT Staffing. 
+We founded Aditech in 2005 as a proprietorship firm under the name “Aditech Infocom,” we began our journey with a commitment to delivering quality services. Headquartered in Pune, India, our firm quickly established a reputation for excellence in the industry. In June 2010, as part of our growth strategy, we transitioned to a private limited company, rebranding as Aditech IT and Consultancy Services Private Limited.
+As our business expanded globally, we took the next step in our evolution by opening Aditech IT and Consultancy Services LLP in Texas, USA in August 2024. This expansion allows us to better serve our international clients while delivering the same expertise and innovation that has been the hallmark of our success. 
 
-Employees are the most valuable assets of any company. We understand and live by it. We help companies hire the right talent in this ever-evolving job market. Be it Manufacturing to Technology, large corporations to early stage startups, bulk hiring to executive recruitment  - we have got you covered. 
+## Our Vision
+- To be our client’s trusted partners on a long-term basis.
+- To enable our clients to contain and reduce their operating costs.
+- To add value to every transaction with our clients.
+- To outgrow and outpace our competitors through our core competency.
 
-Knowing the pains of filtering a massive pool of candidates, we help our clients with screening so that they can focus and spend their resources only on those handful ones. 
+## Our Approach
+We strive to realize our vision by:
+- Building enduring, trust-based relationships with our clients.
+- Going the extra mile to exceed our client’s expectations.
+- Creating an environment where commitments are made and kept.
+- Maintaining a strong and stringent focus on quality.
 
-## How we do
 
-We are a team of experts with experience in recruitment for about two decades now. Using our domain knowledge, we have developed an in-house software to track and automate complex workflows.We have curated a huge database of candidates wit This helps us save thousands of employee hours, eliminate human errors and be responsive to the clients and the candidates.
+## Team: 
+The Aditech team is composed of professionals with extensive backgrounds in Technology and Management. Each team member brings a wealth of experience and a proven track record in envisioning global strategies, providing scientific consulting, and delivering high-end solutions.
+Our entire team is united by a commitment to perseverance and exceptional service. The core of Aditech is formed by seasoned professionals with specialized expertise, enabling us to meet the challenging requirements of our clients with remarkable efficiency and speed.
 
-It's not just about business - we strongly believe that a contract more than a legal binding. We focus on building and nurturing a strong relation with our clients and candidates. This helps us better understand and serve to our clients' needs. 
 
-The job market has never been so dynamic. To keep up with the changing demands, we ramp-up our team through peer seminars and expert talks. 
