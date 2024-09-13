@@ -41,7 +41,6 @@ sass:
 plugins:
   - jekyll-environment-variables
   - jemoji
-  - jekyll-include-cache
 
 exclude:
   - Gemfile
