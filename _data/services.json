@@ -1,19 +1,19 @@
 [
     {
         "title": "Recruitment & Staffing",
-        "description": "Highly flexible and customizable services.",
+        "description": "Hire the right talent for your business with our recruitment experts with decades of experienced powered by our in-house automated erpnext recruitment software.",
         "image": "images/services/recruitment_service.png",
         "url": "/recruitment-staffing"
     },
     {
         "title": "ERPNext",
-        "description": "In-house software to automate complex recruitment workflows.",
+        "description": "Digitize and scale your business with open source software - Frappe/ERPNext. We create workflows customized for your business needs so that you can focus on what you do best. We have special offerings for education, finance, manufacturing and real estate.",
         "image": "images/services/erpnext_logo.svg",
         "url": "/erpnext"
     },
     {
         "title": "Cloud Infrastructure & DevOps",
-        "description": "Team of experts abreast with the requirements of the job market.",
+        "description": "As businesses grow so does of managing it. We help you scale by managing your data and infrastructure, upgrading legacy softwares with cost-effective, highly-efficient and secure Cloud infrastructure and DevOps services. providing cloud infrastructure and DevOps services.",
         "image": "images/services/aws_logo.svg",
         "url": "/cloud-infrastructure-devops"
     }
